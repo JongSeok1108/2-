@@ -7,6 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
+<<<<<<< HEAD
 juhyun
 jjuhyuning
 
@@ -35,6 +36,10 @@ git merge<branch-jongseok>
 
 
 <p>이제 되네용 ~~ </p>
+=======
+kyungho.jsp
+<h1>Kyung Ho branch</h1>
+>>>>>>> branch 'kyungho' of https://github.com/JongSeok1108/2-.git
 
 
 <p> 집에 언제 보내주나요? </p>
