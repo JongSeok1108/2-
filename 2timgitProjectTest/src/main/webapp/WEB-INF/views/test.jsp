@@ -15,7 +15,7 @@ projectTest.jsp
 <h1>updateTest</h1>
 
 
-
+<h1>안되면 스프링 죽인다.</h1>
 
 <h1>안녕하세용</h1>
 
