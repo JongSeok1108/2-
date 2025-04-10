@@ -16,10 +16,10 @@ projectTest.jsp
 
 <h1>안녕하세용</h1>
 
-<<<<<<< HEAD
 
 
-<branch-jongseok>
+
+git merge<branch-jongseok>
 
 
 
