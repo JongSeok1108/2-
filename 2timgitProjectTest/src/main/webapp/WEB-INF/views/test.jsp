@@ -39,6 +39,7 @@ git merge<branch-jongseok>
 
 <p> 집에 언제 보내주나요? </p>
 <p> 오늘의 저녁 메뉴 : 우삼겹 구워먹기 </p>
+<p> 집! </p>
 
 
 
