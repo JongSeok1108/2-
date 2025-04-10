@@ -7,9 +7,13 @@
 <title>Insert title here</title>
 </head>
 <body>
-projectTest.jsp
+juhyun
+jjuhyuning
 
 <h1>이거 내꺼임 - 주현 -</h1>
+
+<p> 집에 언제 보내주나요? </p>
+<p> 오늘의 저녁 메뉴 : 우삼겹 구워먹기 </p>
 
 </body>
 </html>
