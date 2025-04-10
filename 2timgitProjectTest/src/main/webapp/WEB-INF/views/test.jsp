@@ -16,6 +16,7 @@ projectTest.jsp
 
 <h1>안녕하세용</h1>
 
+<<<<<<< HEAD
 
 
 <branch-jongseok>
@@ -23,6 +24,9 @@ projectTest.jsp
 
 
 
+=======
+<p>이제 되네용 ~~ </p>
+>>>>>>> branch 'master' of https://github.com/JongSeok1108/2-.git
 
 </body>
 </html>
