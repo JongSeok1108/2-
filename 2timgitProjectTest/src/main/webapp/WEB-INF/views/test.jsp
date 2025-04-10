@@ -9,6 +9,11 @@
 <body>
 projectTest.jsp
 
+
 <p>종석 : 미안하다</p>
+
+<h1>updateTest</h1>
+
+
 </body>
 </html>
